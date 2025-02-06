@@ -43,4 +43,4 @@ Este projeto foi uma jornada de aprendizado em React, onde os seguintes conceito
 - **The Movie Database (TMDb)**: API utilizada para obter dados sobre filmes.
 
 Você pode acessá-lo pelo Vercel:
-[https://nossos-filmes-one.vercel.app](url)
+[https://nossos-filmes-one.vercel.app](https://nossos-filmes-one.vercel.app)
